@@ -1,0 +1,23 @@
+# Ignore executables
+*.exe
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore compiled libraries
+*.dll
+*.so
+*.dylib
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore build folders
+/build/
+/dist/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
